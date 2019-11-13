@@ -1,8 +1,7 @@
-# SmartBrain-api - v1
-Final project for Udemy course
+*clarifai face detection api*
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+*postgreSQL database*
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
+Run npm install
+Run npm start
+You must add your own API key in the src/App.js file to connect to Clarifai.
